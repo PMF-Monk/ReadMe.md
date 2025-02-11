@@ -47,23 +47,23 @@ PMF Monkey is a technical demo and portfolio project designed to showcase the De
 
 ## Goals
 * Deliver an AI Agent custom developed to be an expert in a specific domain that can interact with users via chat-like text interface.
-  * **v1.0 - MVP Release [NOW - MVP-AGENT v1.0]** - PMF expert AI Agent interacts with users to accelerate time to product market fits 
+  * **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0]** - PMF expert AI Agent interacts with users to accelerate time to product market fits 
     * **Timeline**: 60 to 100 days
-  * **v2.0 - Fast Follow Release [FF-DOC v2.0]** - Adds richer interactivity and improved ability to maintain structured context on a user’s product market fit search across multiple sessions over time.
+  * **v2.0 [NEXT] - Fast Follow Release [FF-DOC-v2.0]** - Adds richer interactivity and improved ability to maintain structured context on a user’s product market fit search across multiple sessions over time.
     * **Timeline:** 60 to 100 days
-  * **v3.0 - Future Release FR-MONK v3.0** - A structured Agent-led product market fit search experience to further accelerate the path to product market fit.
+  * **v3.0 [LATER] - Future Release [FR-MONK-v3.0]** - A structured Agent-led product market fit search experience to further accelerate the path to product market fit.
     * Delivers a simple and fun structured Agentic Coach to guide the user on their journey to achieve strong product market fit. 
     * By leading the user through a “Choose Your Own Adventure” process of accepting and completing specific quests designed to help gather valuable market data and insights to accelerate the user’s path to product market fit.
     * More capabilities planned.
       * **Timeline:** TBD
 ## Definition of Done
-* **NOW v1.0 - MVP Release - (MVP-AGENT)** - PMF expert AI Agent interacts with users to accelerate time to product market fits.
+* **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0]** - PMF expert AI Agent interacts with users to accelerate time to product market fits.
   * User has the ability to collaborate with an AI expert Agent via chat interface trained to help the user demystify their search for product market fit.
   * Agent has the ability to retain context and history of interactions documenting a specific user’s PMF Search Journey over the course of a single session.
-* **NEXT v2.0 - Fast Follow Release (FF-DOC)** - Adds richer interactivity and improved ability to maintain structured context on a user’s product market fit search across multiple sessions over time.
+* **v2.0 [NEXT] - Fast Follow Release [FF-DOC-v2.0]** - Adds richer interactivity and improved ability to maintain structured context on a user’s product market fit search across multiple sessions over time.
   * User can upload documents with any combination of structured and unstructured text or other media to the Agent where it will be stored within the single context of the user’s PMF Journey. 
   * Agent has access to all content provided by the user across multiple sessions for a single user PMF Search Journey and includes this context in recommendations and other responses.
-* **LATER v3.0 - Future Release (FR-CAI)** - A structured Agent-led product market fit search experience to further accelerate the path to product market fit.**
+* **v3.0 [LATER] - Future Release [FR-MONK-v3.0]** - A structured Agent-led product market fit search experience to further accelerate the path to product market fit.**
   * User can access a simple and fun-to-use structured Agentic Coach to guide the user on their journey to achieve strong product market fit for a specific opportunity.
   * By leading the user through a “Choose Your Own Adventure” process of decision trees with multiple options to accept and complete specific quests to improve marketing strategy and execution over time with the help of an AI Expert Agent.
 ## Stakeholders and Benefits
