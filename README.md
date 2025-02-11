@@ -57,7 +57,7 @@ PMF Monkey is a technical demo and portfolio project designed to showcase the De
     * More capabilities planned.
       * **Timeline:** TBD
 ## Definition of Done
-* **NOW v1.0 - MVP Release - (MVP-AGENT)** - Collaborate with users to accelerate time to product market fits.
+* **NOW v1.0 - MVP Release - (MVP-AGENT)** - PMF expert AI Agent interacts with users to accelerate time to product market fits.
   * User has the ability to collaborate with an AI expert Agent via chat interface trained to help the user demystify their search for product market fit.
   * Agent has the ability to retain context and history of interactions documenting a specific user’s PMF Search Journey over the course of a single session.
 * **NEXT v2.0 - Fast Follow Release (FF-DOC)** - Adds richer interactivity and improved ability to maintain structured context on a user’s product market fit search across multiple sessions over time.
