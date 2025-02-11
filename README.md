@@ -47,7 +47,7 @@ PMF Monkey is a technical demo and portfolio project designed to showcase the De
 
 ## Goals
 * Deliver an AI Agent custom developed to be an expert in a specific domain that can interact with users via chat-like text interface.
-  * **v1.0 - MVP Release [NOW - MVP-AGENT v1.0]** - Collaborate with users to accelerate time to product market fits 
+  * **v1.0 - MVP Release [NOW - MVP-AGENT v1.0]** - PMF expert AI Agent interacts with users to accelerate time to product market fits 
     * **Timeline**: 60 to 100 days
   * **v2.0 - Fast Follow Release [FF-DOC v2.0]** - Adds richer interactivity and improved ability to maintain structured context on a user’s product market fit search across multiple sessions over time.
     * **Timeline:** 60 to 100 days
