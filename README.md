@@ -15,7 +15,7 @@ PMF Monk is designed to provide expert guidance for users and help accelerate th
 
 ### User Requirements
 
-1. **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0] - AI Expert Chat Agen**
+1. **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0] - AI Expert Chat Agent**
    * **Expert AI Chat Agent with context limited to a single session**
    * The Agent provides an interactive chat-based user interface to the user. 
    * The Agent maintains context on the user’s goals and previous interactions over the course of a single session.
