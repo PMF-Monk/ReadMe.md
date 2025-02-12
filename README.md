@@ -15,7 +15,7 @@ PMF Monk is designed to provide expert guidance for users and help accelerate th
 
 ### User Requirements
 
-1. **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0] - AI Expert Chat Agent - MVP-AGENT 1.0**
+1. **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0] - AI Expert Chat Agen**
    * **Expert AI Chat Agent with context limited to a single session**
    * The Agent provides an interactive chat-based user interface to the user. 
    * The Agent maintains context on the user’s goals and previous interactions over the course of a single session.
@@ -25,7 +25,7 @@ PMF Monk is designed to provide expert guidance for users and help accelerate th
    * The Agent will respond in the role of an expert guiding the user on their product market fit search journey. 
    * The Agent will maintain a working memory and context for all user interactions including questions and answers for a given session. 
    * The working memory (Context) will be used to reduce the likelihood of AI hallucinations and to improve the accuracy of customized responses from the Agent.
-2. **v2.0 [NEXT] - Fast Follow Release [FF-DOC-v2.0] - Fast Follow Document Interaction - FF-DOC 2.0**
+2. **v2.0 [NEXT] - Fast Follow Release [FF-DOC-v2.0] - Fast Follow Document Interaction**
    * **Adds the ability for users to upload documents and for the Agent to generate docs**
    * Users will be able to upload or link to structured data, media, and other resources 
      * to better inform the Agent of important context to assist in the search for product market fit.
@@ -33,7 +33,7 @@ PMF Monk is designed to provide expert guidance for users and help accelerate th
      * and will be used to accelerate the search for product market fit.
    * All context will be maintained across multiple sessions in a single PMF Opportunity journey
      * to ensure the Agent remembers everything that matters about what has and hasn’t been attempted to reduce wasted effort and accelerate the user’s time to product market fit
-3. **v3.0 [LATER] - Future Release [FR-MONK-v3.0] - v3.0+: MONK AI 3.0** 
+3. **v3.0 [LATER] - Future Release [FR-MONK-v3.0] - v3.0** 
    * **Users can have a richer, more structured interactive collaboration with an Expert AI Coach who has rich context on their specific PMF Search Journey.**
    * The agent will take in structured and unstructured insights, assumptions, goals, and constraints from the user on a specific PMF Journey. 
    * The agent will then present the user with a proposed PMF Roadmap which is a decision-tree of options and strategies in the form of quests to move the user closer to their goals.
