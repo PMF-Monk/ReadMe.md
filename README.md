@@ -45,10 +45,13 @@ PMF Monk is designed to provide expert guidance in the form of an AI Agent prese
    * Progress of the search is tracked on a dashboard designed to provide a bird’s eye view of the PMF Search Journey.
    * The user and agent continue to collaborate until evidence of strong product market fit are observed or the search is abandoned by the user.
 
-## Goals
+## Definition of Done & Goals
 
 * Deliver an AI Agent custom developed to be an expert in a specific domain that can interact with users via chat-like text interface.
-  * **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0]** - PMF expert AI Agent interacts with users to accelerate time to product market fits 
+  * **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0]** - PMF expert AI Agent interacts with users to accelerate time to product market fit. 
+    * **Definition of Done:**
+      * User has the ability to collaborate with an AI expert Agent via chat interface trained to help the user demystify their search for product market fit.
+      * Agent has the ability to retain context and history of interactions documenting a specific user’s PMF Search Journey over the course of a single session.* 
     * **Timeline**: 60 to 100 days
   * **v2.0 [NEXT] - Fast Follow Release [FF-DOC-v2.0]** - Adds richer interactivity and improved ability to maintain structured context on a user’s product market fit search across multiple sessions over time.
     * **Timeline:** 60 to 100 days
