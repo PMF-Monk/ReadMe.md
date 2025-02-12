@@ -11,7 +11,9 @@ This application is for anyone seeking to launch a new product or service succes
 
 ### Value Proposition
 PMF Monk offers early stage founders, entrepreneurs and anyone else launching a new product zero-to-one into market, an intelligent expert AI agent designed to assist in the search for product market fit.
-PMF Monk is designed to provide expert guidance for users and help accelerate their journey to achieve product market fit.# User Requirements
+PMF Monk is designed to provide expert guidance for users and help accelerate their journey to achieve product market fit.
+
+### User Requirements
 
 1. **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0] - AI Expert Chat Agent - MVP-AGENT 1.0**
    * **Expert AI Chat Agent with context limited to a single session**
