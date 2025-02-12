@@ -1,16 +1,18 @@
-# PMF Monk - A PMF expert AI Agent Demo
-* An expert AI agent to accelerate your path to product market fit.
+### PMF Monk - A PMF AI Agent Demo
+An expert AI agent to accelerate your path to product market fit. Launching at www.pmfmonk.com, this application will help founders and creators get to product market fit faster.
 
-The PMF Monk (“The Agent”) is a technical demo and portfolio project designed to explore if it is possible to accelerate the time it takes for founders to find strong product market fit for a new product or service while reducing the execution risk of failing to find authentic product market fit at all.
+PMF Monk (“The Agent”) is a technical demo and portfolio project designed to explore if it is possible to accelerate the time it takes for founders to find strong product market fit for a new product or service while reducing the execution risk of failing to find authentic product market fit at all.
 
 This project is Designed, Engineered, and Built from scratch using the very latest AI modeling techniques to offer a best-in-class domain-specific expert AI agent experience designed to help founders, entrepreneurs, product managers and anyone who is developing a product and is  searching for product market fit and evidence of authentic market traction. 
 
 Our first demo agent is PMF Monk, an expert model, trained on the latest Best Practices from a diverse set of Thought Leaders on “How to efficiently navigate the search for product market fit.” 
 
-This application is for anyone seeking to launch a new product or service successfully and get genuine proof of traction quickly and consistently. The Agent will guide the user on a journey in pursuit of product market fit. The vision is to offer a solution that combines user education, structured context ingestion, and an expert AI agent whose only goal is to help the user get to product market fit quickly and efficiently. 
-# What is ‘PMF Monk’?
-PMF Monkey is a technical demo and portfolio project designed to showcase the Design, Engineering, Training, Fine-Tuning, and Configuration of a domain-specific expert large-language model developed from scratch and presented via a web-based conversational AI agent interface.
-# User Requirements
+This application is for anyone seeking to launch a new product or service successfully and get genuine proof of traction quickly and consistently. The Agent will guide the user on a journey in pursuit of product market fit. The vision is to offer a solution that combines user education, structured context ingestion, and an expert AI agent whose only goal is to help the user get to product market fit quickly and efficiently.
+
+### Value Proposition
+PMF Monk offers early stage founders, entrepreneurs and anyone else launching a new product zero-to-one into market, an intelligent expert AI agent designed to assist in the search for product market fit.
+PMF Monk is designed to provide expert guidance for users and help accelerate their journey to achieve product market fit.# User Requirements
+
 1. **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0] - AI Expert Chat Agent - MVP-AGENT 1.0**
    * **Expert AI Chat Agent with context limited to a single session**
    * The Agent provides an interactive chat-based user interface to the user. 
@@ -46,6 +48,7 @@ PMF Monkey is a technical demo and portfolio project designed to showcase the De
    * The user and agent continue to collaborate until evidence of strong product market fit are observed or the search is abandoned by the user.
 
 ## Goals
+
 * Deliver an AI Agent custom developed to be an expert in a specific domain that can interact with users via chat-like text interface.
   * **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0]** - PMF expert AI Agent interacts with users to accelerate time to product market fits 
     * **Timeline**: 60 to 100 days
@@ -56,7 +59,9 @@ PMF Monkey is a technical demo and portfolio project designed to showcase the De
     * By leading the user through a “Choose Your Own Adventure” process of accepting and completing specific quests designed to help gather valuable market data and insights to accelerate the user’s path to product market fit.
     * More capabilities planned.
       * **Timeline:** TBD
+
 ## Definition of Done
+
 * **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0]** - PMF expert AI Agent interacts with users to accelerate time to product market fits.
   * User has the ability to collaborate with an AI expert Agent via chat interface trained to help the user demystify their search for product market fit.
   * Agent has the ability to retain context and history of interactions documenting a specific user’s PMF Search Journey over the course of a single session.
@@ -66,14 +71,18 @@ PMF Monkey is a technical demo and portfolio project designed to showcase the De
 * **v3.0 [LATER] - Future Release [FR-MONK-v3.0]** - A structured Agent-led product market fit search experience to further accelerate the path to product market fit.**
   * User can access a simple and fun-to-use structured Agentic Coach to guide the user on their journey to achieve strong product market fit for a specific opportunity.
   * By leading the user through a “Choose Your Own Adventure” process of decision trees with multiple options to accept and complete specific quests to improve marketing strategy and execution over time with the help of an AI Expert Agent.
+
 ## Stakeholders and Benefits
+
 * **Contributors** - Those who contribute their time and talent to develop and maintain this application
   * receive the opportunity to build a brilliant example of a best-in-class domain-specific AI Agent, using the latest technologies.
 * **Users** - Those who use the application in an attempt to achieve their goals
   * receive a useful new tool to help them learn about the search for product market fit.
 * **Clients** - Those who will be using the application and related documentation to evaluate the skills of the contributors
   * receive compelling evidence-based examples of proof of skill and talent by the contributors.
+
 ## Contributors
+
 * **Deepthi Mohindra - AI Lead**
   * **Role**: Lead development of an AI model that meets requirements
   * **Responsibilities**: Lead all aspects of Model development for non-production purposes including:
