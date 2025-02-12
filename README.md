@@ -1,4 +1,4 @@
-### PMF Monk - A PMF AI Agent Demo
+# PMF Monk - A PMF AI Agent Demo
 An expert AI agent to accelerate your path to product market fit. Launching at www.pmfmonk.com, this application will help founders and creators get to product market fit faster.
 
 PMF Monk is a technical demo and portfolio project designed to explore if it is possible to accelerate the time it takes for founders to find strong product market fit for a new product or service while reducing the execution risk of failing to find authentic product market fit at all.
@@ -7,10 +7,10 @@ This project is Designed, Engineered, and Built from scratch using the very late
 
 This application is for anyone seeking to launch a new product or service successfully and get to genuine proof of traction quickly. The Agent will guide the user on a journey in pursuit of product market fit. The vision is to offer a solution that combines user education, structured context ingestion, and an expert AI agent whose only goal is to help the user get to product market fit fast.
 
-### Value Proposition
+# Value Proposition
 PMF Monk is designed to provide expert guidance in the form of an AI Agent presented via chat interface that helps users accelerate their journey to achieving product market fit.
 
-### User Requirements
+# Requirements
 
 1. **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0] - AI Expert Chat Agent**
    * **Expert AI Chat Agent with context limited to a single session**
@@ -42,7 +42,7 @@ PMF Monk is designed to provide expert guidance in the form of an AI Agent prese
    1. Progress of the search is tracked on a dashboard designed to provide a bird’s eye view of the PMF Search Journey.
    1. The user and agent continue to collaborate until evidence of strong product market fit are observed or the search is abandoned by the user.
 
-## Definition of Done (DoD)
+# Definition of Done (DoD)
 
 * Deliver an AI Agent custom developed to be an expert in a specific domain that can interact with users via chat-like text interface.
   * **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0]** - PMF expert AI Agent interacts with users to accelerate time to product market fit. 
@@ -61,7 +61,7 @@ PMF Monk is designed to provide expert guidance in the form of an AI Agent prese
       * By leading the user through a “Choose Your Own Adventure” process of decision trees with multiple options to accept and complete specific quests to improve marketing strategy and execution over time with the help of an AI Expert Agent
       * **Timeline:** TBD
 
-## Stakeholders and Benefits
+# Stakeholders and Benefits
 
 * **Contributors** - Those who contribute their time and talent to develop and maintain this application
   * receive the opportunity to build a brilliant example of a best-in-class domain-specific AI Agent, using the latest technologies.
@@ -70,7 +70,7 @@ PMF Monk is designed to provide expert guidance in the form of an AI Agent prese
 * **Clients** - Those who will be using the application and related documentation to evaluate the skills of the contributors
   * receive compelling evidence-based examples of proof of skill and talent by the contributors.
 
-## Contributors
+# Contributors
 
 * **Deepthi Mohindra - AI Lead**
   * **Role**: Lead development of an AI model that meets requirements
@@ -105,10 +105,10 @@ PMF Monk is designed to provide expert guidance in the form of an AI Agent prese
   * **Responsibilities:** Lead the development of a product strategy that results in a high-impact product experience for users and clients designed to impress them on the quality of workmanship, strategy and effectiveness of the Rich AI Expert Agent Application experience.
   * **Ownership:** End-to-end ownership of all aspects of product, positioning, user experience, and go-to-market strategy and execution.
 
-## Users
+# Users
 
 * Users may be entrepreneurs, innovators, product managers, engineers, or anyone else who is developing a new product with the goal of achieving strong product market fit.
 
-## Clients
+# Clients
 
 * Clients include anyone evaluating the demo with the goal of evaluating the Contributors on their capabilities in developing Agentic AI.
