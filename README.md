@@ -1,17 +1,14 @@
 ### PMF Monk - A PMF AI Agent Demo
 An expert AI agent to accelerate your path to product market fit. Launching at www.pmfmonk.com, this application will help founders and creators get to product market fit faster.
 
-PMF Monk (“The Agent”) is a technical demo and portfolio project designed to explore if it is possible to accelerate the time it takes for founders to find strong product market fit for a new product or service while reducing the execution risk of failing to find authentic product market fit at all.
+PMF Monk is a technical demo and portfolio project designed to explore if it is possible to accelerate the time it takes for founders to find strong product market fit for a new product or service while reducing the execution risk of failing to find authentic product market fit at all.
 
 This project is Designed, Engineered, and Built from scratch using the very latest AI modeling techniques to offer a best-in-class domain-specific expert AI agent experience designed to help founders, entrepreneurs, product managers and anyone who is developing a product and is  searching for product market fit and evidence of authentic market traction. 
 
-Our first demo agent is PMF Monk, an expert model, trained on the latest Best Practices from a diverse set of Thought Leaders on “How to efficiently navigate the search for product market fit.” 
-
-This application is for anyone seeking to launch a new product or service successfully and get genuine proof of traction quickly and consistently. The Agent will guide the user on a journey in pursuit of product market fit. The vision is to offer a solution that combines user education, structured context ingestion, and an expert AI agent whose only goal is to help the user get to product market fit quickly and efficiently.
+This application is for anyone seeking to launch a new product or service successfully and get to genuine proof of traction quickly. The Agent will guide the user on a journey in pursuit of product market fit. The vision is to offer a solution that combines user education, structured context ingestion, and an expert AI agent whose only goal is to help the user get to product market fit fast.
 
 ### Value Proposition
-PMF Monk offers early stage founders, entrepreneurs and anyone else launching a new product zero-to-one into market, an intelligent expert AI agent designed to assist in the search for product market fit.
-PMF Monk is designed to provide expert guidance for users and help accelerate their journey to achieve product market fit.
+PMF Monk is designed to provide expert guidance in the form of an AI Agent presented via chat interface that helps users accelerate their journey to achieving product market fit.
 
 ### User Requirements
 
@@ -20,11 +17,10 @@ PMF Monk is designed to provide expert guidance for users and help accelerate th
    * The Agent provides an interactive chat-based user interface to the user. 
    * The Agent maintains context on the user’s goals and previous interactions over the course of a single session.
    * The Agent is trained and pre-prompted to act as an expert on the topic of Product Market Fit. 
-   * The Agent is providing support and guidance to a user who is searching for product market fit for a specific opportunity.
-   * The User will proactively ask the Agent questions to support the user in learning more about the topic of product market fit and more importantly, how to apply this knowledge to their current opportunity.
-   * The Agent will respond in the role of an expert guiding the user on their product market fit search journey. 
+   * The Agent provides support and guidance to a user who is searching for product market fit for a specific opportunity.
+   * The Agent will respond to user questions to support the user in learning more about the topic of product market fit and more importantly, how to apply this knowledge to their current PMF Search Journey.
    * The Agent will maintain a working memory and context for all user interactions including questions and answers for a given session. 
-   * The working memory (Context) will be used to reduce the likelihood of AI hallucinations and to improve the accuracy of customized responses from the Agent.
+   * The working memory will be used to reduce the likelihood of AI hallucinations and to improve the accuracy of customized responses from the Agent.
 2. **v2.0 [NEXT] - Fast Follow Release [FF-DOC-v2.0] - Fast Follow Document Interaction**
    * **Adds the ability for users to upload documents and for the Agent to generate docs**
    * Users will be able to upload or link to structured data, media, and other resources 
