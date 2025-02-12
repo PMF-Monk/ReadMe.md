@@ -1,4 +1,4 @@
-# PMF Monk - A PMF AI Agent Demo
+# PMF Monk - AI Agent Demo
 An expert AI agent to accelerate your path to product market fit. Launching at www.pmfmonk.com, this application will help founders and creators get to product market fit faster.
 
 PMF Monk is a technical demo and portfolio project designed to explore if it is possible to accelerate the time it takes for founders to find strong product market fit for a new product or service while reducing the execution risk of failing to find authentic product market fit at all.
