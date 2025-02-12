@@ -14,36 +14,33 @@ PMF Monk is designed to provide expert guidance in the form of an AI Agent prese
 
 1. **v1.0 [NOW] - MVP Release [MVP-AGENT-v1.0] - AI Expert Chat Agent**
    * **Expert AI Chat Agent with context limited to a single session**
-   * The Agent provides an interactive chat-based user interface to the user. 
-   * The Agent maintains context on the user’s goals and previous interactions over the course of a single session.
-   * The Agent is trained and pre-prompted to act as an expert on the topic of Product Market Fit. 
-   * The Agent provides support and guidance to a user who is searching for product market fit for a specific opportunity.
-   * The Agent will respond to user questions to support the user in learning more about the topic of product market fit and more importantly, how to apply this knowledge to their current PMF Search Journey.
-   * The Agent will maintain a working memory and context for all user interactions including questions and answers for a given session. 
-   * The working memory will be used to reduce the likelihood of AI hallucinations and to improve the accuracy of customized responses from the Agent.
+   1. The Agent provides an interactive chat-based user interface to the user. 
+   1. The Agent maintains context on the user’s goals and previous interactions over the course of a single session.
+   1. The Agent is trained and pre-prompted to act as an expert on the topic of Product Market Fit. 
+   1. The Agent provides support and guidance to a user who is searching for product market fit for a specific opportunity.
+   1. The Agent will respond to user questions to support the user in learning more about the topic of product market fit and more importantly, how to apply this knowledge to their current PMF Search Journey.
+   1. The Agent will maintain a working memory and context for all user interactions including questions and answers for a given session. 
+   1. The working memory will be used to reduce the likelihood of AI hallucinations and to improve the accuracy of customized responses from the Agent.
 2. **v2.0 [NEXT] - Fast Follow Release [FF-DOC-v2.0] - Fast Follow Document Interaction**
    * **Adds the ability for users to upload documents and for the Agent to generate docs**
-   * Users will be able to upload or link to structured data, media, and other resources 
-     * to better inform the Agent of important context to assist in the search for product market fit.
-   * Entire interaction and portfolio of data uploads will be included in the Agent context
-     * and will be used to accelerate the search for product market fit.
-   * All context will be maintained across multiple sessions in a single PMF Opportunity journey
-     * to ensure the Agent remembers everything that matters about what has and hasn’t been attempted to reduce wasted effort and accelerate the user’s time to product market fit
+   1. Users will be able to upload or link to structured data, media, and other resources to better inform the Agent of important context to assist in the search for product market fit.
+   1. Entire interaction and portfolio of data uploads will be included in the Agent context and will be used to accelerate the search for product market fit.
+   1. All context will be maintained across multiple sessions in a single PMF Opportunity journey to ensure the Agent remembers everything that matters about what has and hasn’t been attempted to reduce wasted effort and accelerate the user’s time to product market fit
 3. **v3.0 [LATER] - Future Release [FR-MONK-v3.0] - v3.0** 
    * **Users can have a richer, more structured interactive collaboration with an Expert AI Coach who has rich context on their specific PMF Search Journey.**
-   * The agent will take in structured and unstructured insights, assumptions, goals, and constraints from the user on a specific PMF Journey. 
-   * The agent will then present the user with a proposed PMF Roadmap which is a decision-tree of options and strategies in the form of quests to move the user closer to their goals.
-   * The user will be able to ask clarifying questions and challenge the logic of the agent throughout the journey. This is meant to be a collaborative search between user and agent.
-   * As the user completes individual quests, they will feed the resulting learnings and results back to the agent
-   * The agent will incorporate the user’s feedback on their quest in a structured format so the agent may build a stronger and better calibrated hypothesis on the shortest path to product market fit.
-   * The agent presents a revised PMF Roadmap that incorporates all historical learnings including: 
-     * user provided market research, data, and insights  
-     * third-party market research, data, and insights
-     * structured and unstructured data from learning quests
-     * archive of user conversations (Q&A) where answers automatically update with new context from learning quests and other inputs
-   * The user interacts with the agent interactively and iteratively to complete PMF Learning Quests which provide important market feedback and context to accelerate the search for the shortest path to PMF.
-   * Progress of the search is tracked on a dashboard designed to provide a bird’s eye view of the PMF Search Journey.
-   * The user and agent continue to collaborate until evidence of strong product market fit are observed or the search is abandoned by the user.
+   1. The agent will take in structured and unstructured insights, assumptions, goals, and constraints from the user on a specific PMF Journey. 
+   1. The agent will then present the user with a proposed PMF Roadmap which is a decision-tree of options and strategies in the form of quests to move the user closer to their goals.
+   1. The user will be able to ask clarifying questions and challenge the logic of the agent throughout the journey. This is meant to be a collaborative search between user and agent.
+   1. As the user completes individual quests, they will feed the resulting learnings and results back to the agent
+   1. The agent will incorporate the user’s feedback on their quest in a structured format so the agent may build a stronger and better calibrated hypothesis on the shortest path to product market fit.
+   1. The agent presents a revised PMF Roadmap that incorporates all historical learnings including: 
+      1. user provided market research, data, and insights  
+      1. third-party market research, data, and insights
+      1. structured and unstructured data from learning quests
+      1. archive of user conversations (Q&A) where answers automatically update with new context from learning quests and other inputs
+   1. The user interacts with the agent interactively and iteratively to complete PMF Learning Quests which provide important market feedback and context to accelerate the search for the shortest path to PMF.
+   1. Progress of the search is tracked on a dashboard designed to provide a bird’s eye view of the PMF Search Journey.
+   1. The user and agent continue to collaborate until evidence of strong product market fit are observed or the search is abandoned by the user.
 
 ## Definition of Done & Goals
 
